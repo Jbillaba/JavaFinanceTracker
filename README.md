@@ -1,1 +1,1 @@
-# Finance Tracker Made With Java Swing
+# Calculator Made With Java Swing
